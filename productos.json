@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "arroz",
+    "description": "aaaaa",
+    "price": 75,
+    "img": "Sin imagen",
+    "code": "xyz123",
+    "stock": 125
+  },
+  {
+    "id": 2,
+    "title": "agua",
+    "description": "bbbbb",
+    "price": 125,
+    "img": "Sin imagen",
+    "code": "xyz456",
+    "stock": 50
+  }
+]  {
+    "id": 3,
+    "title": "azucar",
+    "description": "ccccc",
+    "price": 325,
+    "img": "Sin imagen",
+    "code": "xyz789",
+    "stock": 170
+  }
+]
